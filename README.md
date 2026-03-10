@@ -26,6 +26,9 @@ I am a data analyst with experience in business analytics, marketing analytics, 
 
 ### Retail Sales Data Analysis
 
+SQL Query:
+[Retail Sales Analysis](./sql/retail_sales_analysis.sql)
+
 **Tools:** SQL, BigQuery
 
 Analyzed retail transaction data to identify trends in revenue and customer purchasing behavior.
@@ -43,7 +46,7 @@ Location: `/sql`
 data-analytics-portfolio
 │
 ├── sql
-│   └── retail_sales_analysis.sql
+│   └── revenue_by_country.sql
 │
 └── README.md
 
