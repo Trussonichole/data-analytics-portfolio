@@ -27,7 +27,7 @@ I am a data analyst with experience in business analytics, marketing analytics, 
 ### Retail Sales Data Analysis
 
 SQL Query:
-[Retail Sales Analysis](./sql/retail_sales_analysis.sql)
+[Retail Sales Analysis](./sql/revenue_by_country.sql)
 
 **Tools:** SQL, BigQuery
 
