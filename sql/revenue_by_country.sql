@@ -1,3 +1,11 @@
+-- This query calculates total revenue per country
+-- Skills demonstrated:
+-- 1. Aggregation with SUM and GROUP BY
+-- 2. Calculations with ROUND
+-- 3. Sorting results with ORDER BY
+-- 4. Business insight: identifying top revenue countries
+
+
 SELECT
 Country, 
 ROUND(SUM(Quantity * UnitPrice),2) AS TotalRevenue
