@@ -19,7 +19,7 @@ This section showcases interactive dashboards built in Tableau Public using real
 ### 🔗 [View Interactive Dashboard on Tableau Public ↗](https://public.tableau.com/app/profile/nichole.trusso/viz/Tableau-Practice_17733580120540/Dashboard1)
 
 ### Preview
- 📸 ![Retail Sales Analysis Dashboard](./dashboard_preview.jpg)
+ 📸 ![Retail Sales Analysis Dashboard](./Dashboard_preview.jpg)
 
 ---
 
