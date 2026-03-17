@@ -25,4 +25,3 @@ This section showcases interactive dashboards built in Tableau Public using real
 
 *More dashboards coming soon.*
 ```
-   > 📸 *Screenshot coming soon — see the live dashboard via the link above.*
