@@ -39,10 +39,13 @@ Analyzed retail transaction data to uncover actionable insights in revenue and c
 
 data-analytics-portfolio
 │
-├── sql
-│   └── revenue_by_country.sql
+├── SQL
+│   ├── revenue_by_country.sql
+│   └── README.md
 │
-└── README.md
+└── Tableau
+    ├── README.md
+    └── Dashboard_preview.jpg
 
 ## Contact
 
