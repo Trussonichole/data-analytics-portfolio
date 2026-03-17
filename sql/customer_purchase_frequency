@@ -1,0 +1,7 @@
+SELECT 
+CustomerID, 
+COUNT(DISTINCT InvoiceNo) AS NumOrders
+ FROM `project-93b21af5-a7d3-4505-a49.sales_analysis.online_retail` 
+WHERE CustomerID IS NOT NULL
+GROUP BY CustomerID
+ORDER BY NumOrders DESC;
