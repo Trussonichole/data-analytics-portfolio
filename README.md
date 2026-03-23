@@ -55,12 +55,16 @@ Visualized revenue trends and customer segmentation.
 data-analytics-portfolio
 │
 ├── SQL
-│   ├── revenue_by_country.sql
-│   └── README.md
+│ ├── revenue_by_country.sql
+│ └── README.md
 │
-└── Tableau
-    ├── README.md
-    └── Dashboard_preview.jpg
+├── Tableau
+│ ├── README.md
+│ └── dashboard-preview.png
+│
+└── power-bi-sales-dashboard
+├── README.md
+└── sales-dashboard.pdf
 
 ## Contact
 
