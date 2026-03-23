@@ -42,7 +42,7 @@ Built an interactive dashboard to analyse sales performance.
 Identitfied key revenue trends and top-performing products
 
 ### Retail Sales Analysis Dashboard (Tableau)
-***Tools:** Tableau Public
+**Tools:** Tableau Public
 
 Built an interactive dashboard to analyze retail sales performance.
 Explored global customer distribution and purchasing behavior.
