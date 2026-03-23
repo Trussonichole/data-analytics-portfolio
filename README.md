@@ -19,6 +19,8 @@ I am a data analyst with experience in business analytics, marketing analytics, 
 - SQL
 - Python
 - Excel
+- Tableau
+- Power BI
 - GitHub
 
 ---
