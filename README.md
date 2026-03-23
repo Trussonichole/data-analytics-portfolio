@@ -25,13 +25,20 @@ I am a data analyst with experience in business analytics, marketing analytics, 
 
 ## Projects
 
-### Retail Sales Data Analysis
+### Retail Sales Data Analysis (SQL)
 **SQL Query:** Retail Sales Analysis  
 **Tools:** SQL, BigQuery  
 
 Analyzed retail transaction data to uncover actionable insights in revenue and customer behavior.
 
 **Location in repo:** ``/sql/revenue_by_country.sql``
+
+### Power BI Sales Dashboard
+**Tools:** Power Query, Power BI, DAX
+
+Built an interactive dashboard to analyse sales performance. 
+Identitfied key revenue trends and top-performing products
+
 
 ---
 
